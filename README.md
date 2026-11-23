@@ -1,63 +1,34 @@
 # Juan Pablo Molina
 
-## Site Reliability Engineer | Data Analytics
+### Site Reliability Engineer | Data Analytics
 
-Systems Engineer focused on reliability engineering, observability,
-automation and data-driven solutions.
+Systems Engineer focused on reliability engineering, observability, automation and data-driven solutions.
 
 ## Professional Experience
 
 - Site Reliability Engineer at NICE CXone
-- Observability & Monitoring
-- Automation & Operational Analytics
+- Observability and monitoring
+- Automation and operational analytics
+- Incident management, RCA and postmortems
 
 ## Technologies
 
-### SRE
-- BMC Helix
-- Prometheus
-- Grafana
-- Datadog
-- AWS
-- Ansible
-- Rundeck
+**SRE & Observability:** BMC Helix, Prometheus, Grafana, Datadog, AWS, Ansible, Rundeck
 
-### Data
-- SQL
-- Python
-- Power BI
-- Pandas
+**Containers & Orchestration:** Docker, Kubernetes (Linux Foundation LFS158x: Introduction to Kubernetes)
 
-### Development
-- JavaScript
-- TypeScript
-- PHP
-- Flutter
+**AI-Assisted Engineering:** Claude, Claude Code (Anthropic Academy: Claude 101 and Claude Code 101)
+
+**Data:** SQL, Python, Power BI, Pandas
+
+**Development:** JavaScript, TypeScript, PHP, Flutter
 
 ## Currently Learning
 
-- Kubernetes
 - Terraform
 - Cloud Infrastructure
-- Data Engineering# Juan Pablo Molina
-Site Reliability Engineer | Data Analytics
-Systems Engineer with experience in:
+- Data Engineering
 
-- Observability
-- Automation
-- Cloud Operations
-- Data Analytics
+## Currently Working With
 
-Currently working with:
-Prometheus | Grafana | BMC Helix | Datadog | AWS
-
-Skills
-SRE
- - Monitoring
- - Incident Management
- - Automation
- - RCA
-Data
- - SQL
- - Python
- - Power BI
+Prometheus | Grafana | BMC Helix | Datadog | AWS | Kubernetes | Claude Code
